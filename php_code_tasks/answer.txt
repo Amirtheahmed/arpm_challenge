@@ -1,0 +1,4 @@
+1. The output is 2. Function A looks like its binary search algorithm for finding the square root of a number.
+2. The output is 5000.
+3. After creation $result will look like this
+    $result = array("a" => "x", "b" => "z", "c" => "y");

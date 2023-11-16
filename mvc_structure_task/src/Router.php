@@ -1,5 +1,5 @@
 <?php
-namespace App;
+namespace src;
 
 class Router {
     private $controller;

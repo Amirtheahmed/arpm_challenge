@@ -1,5 +1,5 @@
 <?php
-namespace App\Controller;
+namespace src\Controller;
 
 class PageController {
     public function loadView($uri) {
